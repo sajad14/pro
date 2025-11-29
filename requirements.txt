@@ -1,6 +1,7 @@
 watchdog
 google-generativeai
-mutagen       
+mutagen
+git+https://github.com/pytgcalls/pytgcalls
 telethon
 aiocron
 ffmpeg
